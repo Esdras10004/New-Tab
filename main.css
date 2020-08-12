@@ -1,0 +1,20 @@
+* {
+    background-image: url('https://images6.alphacoders.com/656/thumb-1920-656283.jpg');
+    background-size: auto 122vh;
+}
+
+body {
+    margin: 30px;
+    text-align: center;
+    
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+p {
+    display: inline-block;
+}
