@@ -18,3 +18,7 @@ img {
 p {
     display: inline-block;
 }
+
+.gitHub {
+    filter: invert(1) hue-rotate(180);
+}
